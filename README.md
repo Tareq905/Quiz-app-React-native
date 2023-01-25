@@ -1,7 +1,3 @@
-
-
-https://user-images.githubusercontent.com/67548796/214667997-fd42c9b1-5af4-4a27-81d0-ef562b89292c.mp4
-
 <h1>This project is created by Md Tareq Shah Alam</h1>
 
 
