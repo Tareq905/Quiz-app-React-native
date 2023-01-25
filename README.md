@@ -12,7 +12,6 @@
 
 
 <h1>If you will use VS code and Genymotion. Then you can use the command given below.</h1>
-<br />
 <h3>$ npm start android</h3>
 <br />
 
