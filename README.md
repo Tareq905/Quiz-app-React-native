@@ -1,5 +1,4 @@
 <h1>This project is created by Md Tareq Shah Alam</h1>
-<h2>The main purpose of creating this app is to apply for a online Job.</h2>
 
 
 
