@@ -1,3 +1,7 @@
+
+
+https://user-images.githubusercontent.com/67548796/214667997-fd42c9b1-5af4-4a27-81d0-ef562b89292c.mp4
+
 <h1>This project is created by Md Tareq Shah Alam</h1>
 
 
@@ -16,7 +20,7 @@
 <h3>$ npm start android</h3>
 <br />
 
-<h1>To use this command, first you need to setup android emulator on your device.</h1>
+<h1>The demo video of the project is here.</h1>
 
-
+https://user-images.githubusercontent.com/67548796/214668234-d776ab28-1bfe-45db-9799-da13008e2c28.mp4
 
