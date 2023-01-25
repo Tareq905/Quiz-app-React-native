@@ -15,6 +15,8 @@
 <br />
 <h3>$ npm start android</h3>
 <br />
-<br />
-<br />
+
 <h1>To use this command, first you need to setup android emulator on your device.</h1>
+
+
+
